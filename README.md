@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- clock I’m currently working on a personally engineered clock, that will run on raspberry pi.
+- 🕤 I’m currently working on a personally engineered clock, that will run on raspberry pi.
 - 🐍 I’m currently learning python and not only. 
 - 🎓 I’m looking to collaborate on everything fun and open-source. 
 - 💭 Ask me about privacy and war history (yeah, totally unrelated things). 
