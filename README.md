@@ -1,5 +1,5 @@
  ### 💻 Only parties I have are LAN parties
- (Alexis Ohanian from book "Without their permission") 
+ (Alexis Ohanian, from book "Without their permission") 
 
 <!-- - 🕤 I’m currently working on a personally engineered clock, that will run on raspberry pi. -->
 <!-- - 🐍 I’m currently learning python and not only. 
